@@ -3,3 +3,10 @@
     background-color: orangered;
     font-family: "Brush Script MT",cursive ; 
 }
+
+#header {
+    font-weight: 800;
+    font-family: "Brush Script MT",cursive ;
+    color: white;
+    background-color: red;
+}
