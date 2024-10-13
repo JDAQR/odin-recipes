@@ -12,6 +12,9 @@
     color: white;
     background-color: orangered;
     font-family: "Brush Script MT",cursive ; 
+    padding: 1em;
+    border: 2px solid black;
+    margin: 1em;
 }
 
 .header {
