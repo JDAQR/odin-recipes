@@ -22,7 +22,8 @@
     font-family: "Brush Script MT",cursive ;
     color: white;
     background-color: red;
-    padding: 2em;
+    padding: 1em;
     border: 2px solid black;
     margin: 1em;
+    text-align: center;
 }
